@@ -1,1 +1,1 @@
-wdkang/kafka-console-ui:latest
+mineru:latest
