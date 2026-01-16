@@ -1,1 +1,1 @@
-mineru:latest
+influxdb:2
